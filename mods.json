@@ -14,23 +14,7 @@
       "description": "Mod that randomizes\nthings",
       "contributors": "radsi, nptnk",
       "recommended": true,
-      "url": "https://github.com/radsi/UltraRandomizer"
-    },
-    {
-      "thumbnail": "none",
-      "name": "Un mod de ultrakill\nque hace cosas",
-      "description": "Un mod de ultrakill que\nhace cosas",
-      "contributors": "radsi, nptnk, pedro\nsánchez",
-      "recommended": false,
-      "url": "about:blank"
-    },
-    {
-      "thumbnail": "none",
-      "name": "UWUmod",
-      "description": "UWUkill",
-      "contributors": "uwu dev",
-      "recommended": true,
-      "url": "about:blank"
+      "url": "https://github.com/radsi/UltraRandomizer/releases/download/1.4.1/UltraRandomizer.dll"
     }
   ]
 }
