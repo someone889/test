@@ -18,15 +18,6 @@
       "url": "https://github.com/radsi/UltraRandomizer/releases/download/1.4.1/UltraRandomizer.dll"
     },
     {
-      "thumbnail": "https://ultramods.xyz/images/Temperz87/UMM.png",
-      "name": "Ultra Mod Manager",
-      "description": "In-game mod manager\nfor ultrakill",
-      "contributors": "Temperz87",
-      "recommended": true,
-      "useUMM": true,
-      "url": "https://github.com/Temperz87/ultra-mod-manager/releases/download/0.4.2/UMM.v0.4.2.zip"
-    },
-    {
       "thumbnail": "https://ultramods.xyz/images/ukt.png",
       "name": "UltraTweaker",
       "description": "Tweaks and modifiers\nfor ultrakill",
