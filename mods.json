@@ -53,6 +53,42 @@
       "recommended": false,
       "useUMM": false,
       "url": "https://github.com/The-DoomMan/ULTRASKINS/releases/download/release/ULTRASKINS.zip"
+    },
+    {
+      "thumbnail": "none",
+      "name": "QuickFist (UMM)",
+      "description": "Press the arm switch\nkeybind n' instantly\nuse knuckleblaster",
+      "contributors": "maranarasauce",
+      "recommended": false,
+      "useUMM": true,
+      "url": "https://github.com/maranarasauce/QuickFist/releases/download/1.0.2/QuickFistUMM.dll"
+    },
+    {
+      "thumbnail": "none",
+      "name": "QuickFist",
+      "description": "Press the arm switch\nkeybind n' instantly\nuse knuckleblaster",
+      "contributors": "maranarasauce",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/maranarasauce/QuickFist/releases/download/1.0.2/QuickFist.dll"
+    },
+    {
+      "thumbnail": "none",
+      "name": "UKMusicReplacement",
+      "description": "Custom songs in\nregular levels",
+      "contributors": "ZedDevStuff",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/ZedDevStuff/UKMusicReplacement/releases/download/0.7.0/UKMusicReplacement-v0.7.0.zip"
+    },
+    {
+      "thumbnail": "none",
+      "name": "2Spooky4Me",
+      "description": "Configure seasonal\nevents for ULTRAKILL",
+      "contributors": "Heckteck, Distrilul_",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/distributivgesetz/2Spooky4Me/releases/download/1.2/TooSpookyForMe.dll"
     }
   ]
 }
