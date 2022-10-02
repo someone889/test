@@ -23,6 +23,14 @@
       "contributors": "radsi, nptnk, pedro\nsánchez",
       "recommended": false,
       "url": "https://ultramods.xyz/"
+    },
+    {
+      "thumbnail": "none",
+      "name": "UWUmod",
+      "description": "UWUkill",
+      "contributors": "uwu dev",
+      "recommended": true,
+      "url": "https://ultramods.xyz/"
     }
   ]
 }
