@@ -2,14 +2,6 @@
   "cards": [
     {
       "thumbnail": "none",
-      "name": "Multikill",
-      "description": "Multiplayer mod for\nULTRAKILL",
-      "contributors": "Distrilul_, Heckteck,\nnptnk",
-      "recommended": false,
-      "url": "https://ultramods.xyz/"
-    },
-    {
-      "thumbnail": "none",
       "name": "UltraRandomizer",
       "description": "Mod that randomizes\nthings",
       "contributors": "radsi, nptnk",
@@ -25,6 +17,33 @@
       "recommended": true,
       "useUMM": true,
       "url": "https://github.com/wafflethings/ULTRAKILLtweaker/releases/download/V1.3.0/UKt_V1.3.0.zip"
+    },
+    {
+      "thumbnail": "https://ultramods.xyz/images/uuc.png",
+      "name": "UltraCanny",
+      "description": "Flip everything!",
+      "contributors": "Robi",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://gitlab.com/Robieh/ultrauncanny/uploads/fd9a64699b32a14ba74db4156b12568a/ULTRAUNCANNY.dll"
+    },
+    {
+      "thumbnail": "https://ultramods.xyz/images/competitor.png",
+      "name": "Cubemap Maker",
+      "description": "A mod that lets you\nset a custom wave\nfor The Cyber Grind",
+      "contributors": "BobbyShmurner",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/BobbyShmurner/CubemapMaker/releases/download/v1.0.3/CubemapMaker.dll"
+    },
+    {
+      "thumbnail": "https://ultramods.xyz/images/customarms.gif",
+      "name": "CustomArms",
+      "description": "Some modded arms",
+      "contributors": "Temperz87",
+      "recommended": false,
+      "useUMM": true,
+      "url": "https://github.com/Temperz87/Ultrakill-Custom-Arms-Proof-Of-Concept/releases/download/v1.3.0/CustomArms.dll"
     }
   ]
 }
