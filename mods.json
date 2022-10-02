@@ -11,10 +11,10 @@
     {
       "thumbnail": "none",
       "name": "UltraRandomizer",
-      "description": "Enemy Randomizer",
+      "description": "Mod that randomizes things",
       "contributors": "radsi, nptnk",
       "recommended": true,
-      "url": "https://ultramods.xyz/"
+      "url": "https://github.com/radsi/UltraRandomizer"
     },
     {
       "thumbnail": "none",
@@ -22,7 +22,7 @@
       "description": "Un mod de ultrakill que\nhace cosas",
       "contributors": "radsi, nptnk, pedro\nsánchez",
       "recommended": false,
-      "url": "https://ultramods.xyz/"
+      "url": "about:blank"
     },
     {
       "thumbnail": "none",
@@ -30,7 +30,7 @@
       "description": "UWUkill",
       "contributors": "uwu dev",
       "recommended": true,
-      "url": "https://ultramods.xyz/"
+      "url": "about:blank"
     }
   ]
 }
