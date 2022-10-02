@@ -25,6 +25,15 @@
       "recommended": true,
       "useUMM": true,
       "url": "https://github.com/Temperz87/ultra-mod-manager/releases/download/0.4.2/UMM.v0.4.2.zip"
+    },
+    {
+      "thumbnail": "https://ultramods.xyz/images/ukt.png",
+      "name": "UltraTweaker",
+      "description": "Tweaks and modifiers\nfor ultrakill",
+      "contributors": "wafflethings",
+      "recommended": true,
+      "useUMM": true,
+      "url": "https://github.com/wafflethings/ULTRAKILLtweaker/releases/download/V1.3.0/UKt_V1.3.0.zip"
     }
   ]
 }
