@@ -44,6 +44,15 @@
       "recommended": false,
       "useUMM": true,
       "url": "https://github.com/Temperz87/Ultrakill-Custom-Arms-Proof-Of-Concept/releases/download/v1.3.0/CustomArms.dll"
+    },
+    {
+      "thumbnail": "none",
+      "name": "Ultraskins",
+      "description": "Fully customizable\ntexture changes for\nULTRAKILL",
+      "contributors": "The-DoomMan",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/The-DoomMan/ULTRASKINS/releases/download/release/ULTRASKINS.zip"
     }
   ]
 }
