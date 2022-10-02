@@ -14,6 +14,7 @@
       "description": "Mod that randomizes\nthings",
       "contributors": "radsi, nptnk",
       "recommended": true,
+      "useUMM": true,
       "url": "https://github.com/radsi/UltraRandomizer/releases/download/1.4.1/UltraRandomizer.dll"
     }
   ]
